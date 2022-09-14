@@ -17,7 +17,7 @@ repositories:
     version: v0.2.3
   CARET/CARET_analyze:
     type: git
-    url: https://github.com/tier4/CARET_analyze.git
+    url: https://github.com/kminoda/CARET_analyze.git
     version: main
   CARET/CARET_analyze_cpp_impl:
     type: git
